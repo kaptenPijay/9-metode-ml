@@ -1,2 +1,2 @@
-# 9-metode-machine-learning
+# 9-metode-machine-learning-thesis
 
