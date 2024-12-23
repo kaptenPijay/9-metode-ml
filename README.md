@@ -1,2 +1,3 @@
 # 9-metode-ml
-thesis
+thesis pijay
+
