@@ -1,2 +1,2 @@
-# 9-metode-ml
+# 9-metode-machine-learning
 
